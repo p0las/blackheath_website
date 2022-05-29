@@ -1,0 +1,16 @@
+ol.navbar-nav {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+}
+
+ol.navbar-nav li {
+  display: inline;
+  white-space: nowrap;
+}
+
+ol.navbar-nav li + li:before {
+  content: ">";
+  padding: 0.3rem;
+}

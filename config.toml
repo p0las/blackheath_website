@@ -1,0 +1,7 @@
+baseURL = 'https://bluemountainssoaring.club'
+languageCode = 'en-us'
+title = 'Blue Mountains Soaring Club'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+[params]
+  site_logo = "img/bmsc-logo.svg"
+  custom_css = ["breadcrumb.css"]
