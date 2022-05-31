@@ -1,7 +1,7 @@
 ---
 title: "Become a Member"
 date: 2022-05-09T20:38:35+10:00
-draft: true
+draft: false
 menu:
   main:
     weight: 2

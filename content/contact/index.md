@@ -1,7 +1,7 @@
 ---
 title: "Contact the Blue Mountains Soaring Club"
 date: 2022-05-13T15:43:59+10:00
-draft: true
+draft: false
 menu:
   main:
     identifier: contact

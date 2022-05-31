@@ -1,7 +1,7 @@
 ---
 title: "About the Blue Mountains Soaring Club"
 date: 2022-05-08T06:46:14+10:00
-draft: true
+draft: false
 menu:
   main:
     parent: before-you-fly
