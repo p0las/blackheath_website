@@ -10,7 +10,5 @@ cascade:
 
 Welcome to the Blue Mountains Soaring Club. We're committed to providing **safe and regular flying opportunities throughout the Blue Mountains and Central Tablelands** to the west of Sydney for all our members.
 
-Check out our [important information before you fly]({{< ref "/before-you-fly" >}}), or [become a member now]({{< ref "/become-a-member" >}}).
-
-TODO: Add facebook page latest posts widget.
+Please read our important information [before you fly]({{< ref "/before-you-fly" >}}), or [become a member now]({{< ref "/become-a-member" >}}).
 
