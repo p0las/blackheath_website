@@ -12,6 +12,6 @@ cascade:
   featured_image: "/img/before-you-fly.jpg"
 ---
 
-Mt Blackheath, due to its unpredictability and exposed mountain locations, is a dangerous **PG5/Advanced site** to fly from. Weather and flying conditions can change rapidly and without warning. We require visiting pilots to **obtain a site briefing each time you fly here**, until you have gained enough experience to fully understand site conditions.
+Mt Blackheath, due to its unpredictability and exposed mountain locations, is a dangerous **PG5/Advanced site** to fly from. <!--more-->Weather and flying conditions can change rapidly and without warning. We require visiting pilots to **obtain a site briefing each time you fly here**, until you have gained enough experience to fully understand site conditions.
 
-Below you will find all you need to know about the Mt Blackheath west launch prior to arriving. Alternatively you can read about our other [lesser known sites west of the Blue Mountains](<<>>)
+Below you will find all you need to know about the Mt Blackheath west launch prior to arriving. Alternatively you can read about our other [lesser known sites west of the Blue Mountains]({{< ref "./other-sites" >}})

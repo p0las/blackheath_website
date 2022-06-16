@@ -8,7 +8,6 @@ cascade:
   featured_image: "/img/blackheath-launch-evening.jpg"
 ---
 
-Welcome to the Blue Mountains Soaring Club. We're committed to providing **safe and regular flying opportunities throughout the Blue Mountains and Central Tablelands** to the west of Sydney for all our members.
+Welcome to the Blue Mountains Soaring Club. We're committed to providing **safe and regular free-flying opportunities throughout the Blue Mountains and Central Tablelands** to the west of Sydney for all our members.
 
-Please read our important information [before you fly]({{< ref "/before-you-fly" >}}), or [become a member now]({{< ref "/become-a-member" >}}).
-
+Please read our [important information before you fly]({{< ref "/before-you-fly" >}}), or join us and [become a member]({{< ref "/become-a-member" >}}). If you have other questions that aren't yet answered here, please [contact us]({{< ref "/contact" >}}).

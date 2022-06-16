@@ -1,7 +1,6 @@
 ---
 title: "Blackheath West Site Guide"
 description: "Familiarise yourself before you arrive"
-date: 2022-05-28T17:33:51+10:00
 draft: false
 weight: 1
 ---
