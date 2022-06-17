@@ -10,6 +10,8 @@ This is both a spectacular and intimidating site which can be difficult to under
 
 <!--more-->
 
+Note: the information here **does not in any way replace a site introduction with an approved safety officer**.
+
 TODO: Add info from sign with images.
 
 ## SAFA Site Appraisal
