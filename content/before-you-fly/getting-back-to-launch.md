@@ -6,7 +6,11 @@ weight: 15
 featured_image: "/img/landing-zone.jpg"
 ---
 
-Even if you've done the walk back to launch from the Blackheath landing zone once or twice with others, **it can be easy to get lost** due to the different tracks that constantly diverge. If you find yourself in the LZ without a car drop, the map below outlines the standard path, or if you use software navigation you can [grab the GPX file with the full path](/gpx/blackheath-lz-to-launch.gpx).
+Even if you've done the walk back to launch from the Blackheath landing zone once or twice with others, **it can be easy to get lost** due to the different tracks that constantly diverge.
+
+<!--more-->
+
+If you find yourself in the LZ without a car drop, the map below outlines the standard path, or if you use software navigation you can [grab the GPX file with the full path](/gpx/blackheath-lz-to-launch.gpx).
 
 [![Walking track](/img/walking-track.jpeg)](/img/walking-track.jpeg)
 
