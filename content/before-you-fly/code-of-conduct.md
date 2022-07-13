@@ -15,9 +15,9 @@ As all NSW pilots are also members of the [New South Wales Hang gliding and Para
 
 All pilots using BMSC sites must be members of the Sports Aviation Federation of Australia (SAFA) and undertake to **follow regulations as set out in the SAFA Operations Manual**.
 
-It is a requirement of BMSC membership and use of Club administered flying sites that you agree to observe and abide by the following values set out below. Failure to abide by the ‘Code of Conduct’ could result in suspension of Flying Privileges or escalation to SAFA as deemed necessary at the time by the Committee.
+It is a requirement of BMSC membership and use of Club administered flying sites that you agree to observe and abide by the following values set out below. Failure to abide by the 'Code of Conduct' could result in suspension of Flying Privileges or escalation to SAFA as deemed necessary at the time by the Committee.
 
-## 1. Respect for Club sites.
+## 1. Respect for Club sites
 
 Flying sites are a precious resource for our sport and our club. Our custodianship of them and ongoing access to them is not guaranteed and is under regular scrutiny. The Mount Blackheath site is our main site, and over the years the club has worked hard to maintain a good relationship with Blue Mountains City Council, and the Landing Paddock landowner. We do not have an alternative landing site for Mt Blackheath, and loss of this would ultimately result in the closure of the site.
 
@@ -25,6 +25,8 @@ Please ensure that you access and use flying sites in a manner that enhances our
 
 - **Familiarity with site rules - this is your responsibility**. The rules are detailed on our website and site guides, and in some cases on site. If in doubt it is a requirement that you ask a representative of the club for clarity.
 - **Launching, flying and landing only from or within specifically designated areas**, in appropriate conditions following approved site procedures.
+
+You can read more specific examples in [taking care of our club sites]({{< ref "./taking-care-of-our-sites" >}}).
 
 ## 2. Respect for other stakeholders and site users
 
