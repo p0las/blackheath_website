@@ -12,7 +12,13 @@ This is both a spectacular and intimidating site which can be difficult to under
 
 Note: the information here **does not in any way replace a site introduction with an approved safety officer**.
 
-TODO: Add info from sign with images.
+## Site overview from the sign installed on site
+
+We have a beautiful new sign at the Blackheath launch which has site rules, site hazards, general site conditions, information about the Landing Zone as well as where to park near the Landing Zone (please do not park anywhere else). You can click or tap on the image below to get a larger version.
+
+[![Blackheath Site sign](/img/blackheath-site-guide-sign-small.jpg)](/img/blackheath-site-guide-sign.jpg)
+
+Please read the information either when on site or before you arrive (you can click on the image above for a readable version). Some of this information is also highlighted on our page about [taking care of our sites]({{< ref "./taking-care-of-our-sites" >}}).
 
 ## SAFA Site Appraisal
 
