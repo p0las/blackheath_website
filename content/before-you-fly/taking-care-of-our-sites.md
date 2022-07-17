@@ -28,7 +28,7 @@ Of course, it's no problem to pull out the dandelion weeds and their lookalikes 
 
 Specifically, please **stay well clear of horses and riders, paying particular attention to the shadow cast by your glider**.
 
-As mentioned on our [Blackheath site guide sign]({{< ref "./blackheath-west-site-guide" >}}), the landing zone and surrounding paddocks are high usage areas for horse riding. Except in an emergency, **do not land in any of the padocks in the valley other than the designated landing zone, marked in green** in the earlier image or as seen on the [Blackheath site guide sign]({{< ref "./blackheath-west-site-guide" >}}).
+As mentioned on our [Blackheath site guide sign]({{< ref "./blackheath-west-site-guide" >}}), the landing zone and surrounding paddocks are high use areas for horse riding. Except in an emergency, **do not land in any of the paddocks in the valley other than the designated landing zone, marked in green** in the earlier image or as seen on the [Blackheath site guide sign]({{< ref "./blackheath-west-site-guide" >}}). It is very important to avoid the paddocks adjacent to the owner’s house and surrounding structures marked as Centennial Glen Stables on the site guide sign.
 
 ## Parking only in the specified area near the Landing Zone
 

@@ -6,11 +6,11 @@ weight: 1
 featured_image: "/img/tandem-blackheath.jpg"
 ---
 
-This is both a spectacular and intimidating site which can be difficult to understand without a lot of local experience. The site has much to offer, from smooth evening ridge soaring to massive, powerful thermals to push you on your way to long distance cross country flying.
+This is both a spectacular and intimidating site which can be difficult to understand without a lot of local experience. The site has much to offer, from smooth evening ridge soaring to very powerful thermals that could be used to push you on your way to long distance cross country flying.
 
 <!--more-->
 
-Note: the information here **does not in any way replace a site introduction with an approved safety officer**.
+Note: the information here **does not in any way replace a site introduction with an approved Safety Officer**.
 
 ## Site overview from the sign installed on site
 

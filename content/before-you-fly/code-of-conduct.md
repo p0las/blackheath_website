@@ -19,7 +19,7 @@ It is a requirement of BMSC membership and use of Club administered flying sites
 
 ## 1. Respect for Club sites
 
-Flying sites are a precious resource for our sport and our club. Our custodianship of them and ongoing access to them is not guaranteed and is under regular scrutiny. The Mount Blackheath site is our main site, and over the years the club has worked hard to maintain a good relationship with Blue Mountains City Council, and the Landing Paddock landowner. We do not have an alternative landing site for Mt Blackheath, and loss of this would ultimately result in the closure of the site.
+Flying sites are a precious resource for our sport and our club. Our custodianship of them and ongoing access to them is not guaranteed and is under regular scrutiny. The Mt Blackheath site is our main site, and over the years the club has worked hard to maintain a good relationship with Blue Mountains City Council, and the landing paddock landowner. There is no alternative landing site for Mt Blackheath so loss of this would result in the closure of the flying site.
 
 Please ensure that you access and use flying sites in a manner that enhances our likelihood of keeping them. This includes:
 
@@ -39,7 +39,7 @@ gates, fences, animals and vegetation**.
 
 Know the rules, know your limitations, participate within them and make safety your primary consideration. **Every time you fly these sites you are representing your sport and your club**. Please portray an image we can all be proud of. Consider the safety and privacy of locals and other visitors.
 
-This particularly applies to Mt Blackheath where large numbers of the public can be present at the Launching area and its surrounds.
+This particularly applies to Mt Blackheath where large numbers of the public can be present at the launch area and its surrounds.
 
 ## 4. Respect for your club and your fellow members
 
@@ -49,4 +49,4 @@ All pilots have an **obligation to act in a safe manner and promote a "safety fi
 
 ## 5. Respect for our environment
 
-**Please don't litter whether biodegradable or not**. This means anywhere in or around our sites including car parks and lookouts. Whilst we can't always control other site users in this regard, we can lead by example by leaving the site clear of rubbish and take responsibility and ownership of maintaining a clean environment, especially at Mt Blackheath.
+**Please don't litter, whether biodegradable or not**. This means anywhere in or around our sites including car parks and lookouts. Whilst we can't always control other site users in this regard, we can lead by example by leaving the site clear of rubbish, taking responsibility and ownership for maintaining a clean environment, especially at Mt Blackheath.
