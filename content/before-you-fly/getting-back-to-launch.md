@@ -6,7 +6,7 @@ weight: 15
 featured_image: "/img/landing-zone.jpg"
 ---
 
-Even if you've done the walk back to launch from the Blackheath landing zone once or twice with others, **it can be easy to get lost** due to the different tracks that constantly diverge.
+The walking track back to launch is not clearly defined and even having done the walk back from the Landing Zone once or twice with others, **it can be easy to get lost** due to the numerous tracks that criss-cross the escarpment.
 
 <!--more-->
 
