@@ -18,7 +18,7 @@ We have a beautiful new sign at the Blackheath launch which has site rules, site
 
 [![Blackheath Site sign](/img/blackheath-site-guide-sign-small.jpg)](/img/blackheath-site-guide-sign.jpg)
 
-Please read the information either when on site or before you arrive (you can click on the image above for a readable version). Some of this information, including more detail about the Landing Zone is also highlighted on our page about [taking care of our sites]({{< ref "./taking-care-of-our-sites" >}}).
+Please read the information either when on site or before you arrive (you can click on the image above for a readable version). Some of this information, including more detail about the Landing Zone, is also highlighted on our page about [taking care of our sites]({{< ref "./taking-care-of-our-sites" >}}).
 
 ## SAFA Site Appraisal
 
