@@ -30,6 +30,10 @@ As mentioned on our [Blackheath site guide sign]({{< ref "./blackheath-west-site
 
 [![Blackheath Landing Zone on the SiteGuide website](/img/blackheath-site-guide-web-landing-zone.jpg)](https://siteguide.org.au/siteguidemap.html?mapType=terrain&type=open&ll=-33.63042,150.24657&spn=0.02413,0.04793)
 
+If you do have have an emergency landing in a no landing zone and disturb anyone, please **begin by apologising** rather than excusing the incident and be sure to let someone on the committee know as soon as practicable so that the club can help resolve any issues if required.
+
+For many situations it may be decided that the **individual is able to resolve the situation themselves** without needing the club involved any further. Please consider writing a letter of apology with a small gift and be sure to let a committee member know whether a satisfactory outcome was achieved or whether further intervention is required.
+
 ## Parking only in the specified area near the Landing Zone
 
 Specifically, please **do not park your car in other areas other than specified, especially on private property**.
