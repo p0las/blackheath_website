@@ -22,8 +22,6 @@ Our Blackheath launch site is situated in a beautiful patch of council owned bus
 
 If you see something that you think is a safety issue, **please talk with any of the Club's committee members, or directly with a club member with environmental management experience**, who can organise to have the issue addressed possibly with council involvement depending on the extent of the issue.
 
-Of course, it's no problem to pull out the dandelion weeds and their lookalikes bordering the synthetic turf!
-
 ## Avoid flying over other areas near the Landing Zone
 
 Specifically, please **stay well clear of horses and riders, paying particular attention to the shadow cast by your glider**.
