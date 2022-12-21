@@ -14,4 +14,4 @@ cascade:
 
 Mt Blackheath, due to its unpredictability and exposed mountain location, can be a challenging **PG5/Advanced site** to fly from. <!--more-->At other times it can quickly and unexpectedly become dangerous to be in the air. Weather and flying conditions can change rapidly and without warning. Visiting pilots are advised to **obtain a site briefing each time before flying**, until enough experience has been gained to fully understand site conditions.
 
-Below you will find all you need to know about the Mt Blackheath west launch prior to arriving. Alternatively you can read about our other [lesser known sites west of the Blue Mountains]({{< ref "./other-sites" >}})
+Below you will find all you need to know about the Mt Blackheath west launch prior to arriving. Alternatively you can read about our other [lesser known club sites west of the Blue Mountains]({{< ref "./other-sites" >}})

@@ -1,6 +1,6 @@
 ---
-title: "Other Sites"
-description: "Other sites around the Blue Mountains"
+title: "Other Club Sites"
+description: "Other sites West of the Blue Mountains"
 draft: false
 
 ---
