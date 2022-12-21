@@ -2,10 +2,10 @@
 title: "Mt Rankin Site Guide"
 description: "Familiarise yourself before you arrive"
 draft: false
-weight: 1,
+weight: 100,
 ---
 
-Mount Rankin is a beautiful site located just outside of Bathurst on private property.
+Mount Rankin is a beautiful site located just outside of Bathurst on private property with some good cross-country options.
 
 <!--more-->
 
@@ -17,7 +17,7 @@ The following information is directly from the official SAFA Site appraisal and 
 
 Mount Rankin, off Howards Drive, Mt Rankin, approximately 15km by road from Bathurst, S33.32232 E 149.50957
 
-Call 000. Bathurst Hospital 02 6330 5311, Orang Hospital 02 6369 3000
+Call 000. Bathurst Hospital 02 6330 5311, Orange Hospital 02 6369 3000
 
 ### SAFA Club
 
@@ -63,7 +63,7 @@ Advanced certificate conditions: < 15 knots.
 
 PG2 and PG3 certificate conditions: 0-15 knots with SO supervision.
 
-PG4 certificate conditions: 0-10 knots with duty pilot supervision.
+PG4 certificate conditions: 0-15 knots with duty pilot supervision.
 
 PG5 certificate conditions: < 15 knots.
 
