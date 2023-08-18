@@ -5,3 +5,6 @@ theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 [params]
   site_logo = "img/bmsc-logo.svg"
   custom_css = ["breadcrumb.css"]
+
+[markup.goldmark.renderer]
+unsafe= true
